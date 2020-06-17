@@ -1,7 +1,7 @@
 #!/bin/bash
 # your application jar file.
 FILE=/path/helloworld.jar
-# your app name, in case there many apps in the same envoriment.
+# your app name, in case there many apps in the same machine.
 APP=helloworld
 
 # PID file.
